@@ -1,2 +1,2 @@
 column2 < 0
-column2 > 60
+column3 > 60
